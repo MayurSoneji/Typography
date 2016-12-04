@@ -26,11 +26,15 @@ This was just me experimenting the typography which has no real meaning, it was 
 
 ![Ed Balls 2](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ed-Balls-2.png "Ed Balls 2")
 
-I tried to use negative space however it was not relevvant to the quote.
+I tried to use negative space however it was not relevant to the quote.
 
 ![Ed Balls 3](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ed-Balls-3.png "Ed Balls 3")
 
 Ed Balls has accidentaly tweeted his name, so I though to erase some of the tweet to show this.
+
+![Ed Balls 4](https://github.com/MayurSoneji/Typography/blob/master/Image%20files/Ed-Balls-4.png "Ed Balls 4")
+
+Given feedback based on my previous idea, some people could not see it as it being rubbed out therefore I tried another approach, I still prefer the first one because when people rub things out, it is generally messy. This idea still shows the quote and it masks out some of the name.
 
 #Justice
 
